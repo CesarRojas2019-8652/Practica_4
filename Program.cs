@@ -14,7 +14,7 @@ namespace practica_04_ejercicio_4
             for (int i = 0; i <= 9; i++)
             {
                 int M = 1 + i;
-                Console.WriteLine("Digite el numero {0} ", M);
+                Console.WriteLine("Ingrese el numero {0} ", M);
                 Numeros[i] = float.Parse(Console.ReadLine());
                 Console.Clear();
 
