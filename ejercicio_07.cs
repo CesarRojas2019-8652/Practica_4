@@ -1,4 +1,5 @@
-﻿using System;
+//7.	Un programa que te pida tu nombre y lo muestre en pantalla separando cada letra de la siguiente con un espacio. Por ejemplo, si tu nombre es "Moreta", debería aparecer en pantalla "M o r e t a".
+using System;
 
 
 namespace practica_04_ejercicio_07
